@@ -1,0 +1,72 @@
+D:\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+D:\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+D:\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+D:\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+D:\Task_2 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+D:\Task_3 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+D:\Task_4 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+D:\Task_5 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.deps.json
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.dll
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\bin\Debug\net5.0\Task2.DAL.pdb
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.AssemblyReference.cache
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfoInputs.cache
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.AssemblyInfo.cs
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.csproj.CoreCompileInputs.cache
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.dll
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\refint\Task2.DAL.dll
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\Task2.DAL.pdb
+E:\Task_6 ASP.NET CORE\Task2.PL\Task2.DAL\obj\Debug\net5.0\ref\Task2.DAL.dll
